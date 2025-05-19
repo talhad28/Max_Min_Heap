@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Max_Min_Heap1:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Max_Min_Heap</output-path>
-    <root id="archive" name="Max_Min_Heap.jar">
-      <element id="module-output" name="Max_Min_Heap" />
-    </root>
-  </artifact>
-</component>
